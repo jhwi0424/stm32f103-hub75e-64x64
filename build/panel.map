@@ -1,0 +1,1600 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+                              C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o (memset)
+C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+                              C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o (__libc_init_array)
+
+Discarded input sections
+
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x54 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .rodata.APBPrescTable
+                0x00000000        0x8 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .text          0x00000000       0x14 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DeInit
+                0x00000000       0x20 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetTickPrio
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_SetTickFreq
+                0x00000000       0x28 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetTickFreq
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_Delay
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_SuspendTick
+                0x00000000        0xe C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_ResumeTick
+                0x00000000        0xe C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetREVID
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetDEVID
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetUIDw0
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetUIDw1
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_GetUIDw2
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x16 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_DeInit
+                0x00000000       0xdc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xa C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2a C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x18 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_DeInit
+                0x00000000       0xd8 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x4c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x20 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x20 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0x6c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x18 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000       0xf4 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0xbc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .rodata.aPredivFactorTable.0
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .rodata.aPLLMULFactorTable.1
+                0x00000000       0x10 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_info    0x00000000      0x420 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_abbrev  0x00000000      0x1d8 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_loclists
+                0x00000000      0x270 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_aranges
+                0x00000000       0x30 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_rnglists
+                0x00000000       0x3f C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x2b7 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_line    0x00000000      0xcca C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_str     0x00000000    0x9676a C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .comment       0x00000000       0x44 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .debug_frame   0x00000000       0x60 C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.FLASH_SetErrorCode
+                0x00000000       0x50 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x50 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x110 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x4 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x54 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .text.HAL_FLASH_Program
+                0x00000000       0xa4 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .bss.pFlash    0x00000000       0x20 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_info    0x00000000      0x669 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_abbrev  0x00000000      0x30e C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_loclists
+                0x00000000      0x258 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_aranges
+                0x00000000       0x80 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_rnglists
+                0x00000000       0x8a C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x2b7 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_line    0x00000000      0xf75 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_str     0x00000000    0x968c6 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .comment       0x00000000       0x44 C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .debug_frame   0x00000000      0x11c C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .group         0x00000000        0xc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .data          0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .bss           0x00000000        0x0 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x60 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x54 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000      0x1ec C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x28 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.FLASH_PageErase
+                0x00000000       0x24 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa8 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x54 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_info    0x00000000      0xba4 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_abbrev  0x00000000      0x304 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_loclists
+                0x00000000      0x57a C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_aranges
+                0x00000000       0x58 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_rnglists
+                0x00000000       0xa6 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x2c9 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0xad2 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x2c6 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x2e C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x56 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x51 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x103 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x6a C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1df C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x1c C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0xbd C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0xd23 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000     0xe09e C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x6d C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000     0x34a2 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x190 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x5c C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x5bc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x289 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1cb C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x114 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1b2 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x27 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x136 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1bc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x34 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x3c C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x408 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x57 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x46a C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1b5 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x22 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x87 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x240 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x287 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x78 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x140 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1ef C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0xeb C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x8ed C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x28e C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x217 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x1a7 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x2cd C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x8d C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0xb7 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000      0x242 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_macro   0x00000000       0x83 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_line    0x00000000     0x1125 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_str     0x00000000    0x96a74 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .comment       0x00000000       0x44 C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .debug_frame   0x00000000       0xdc C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00010000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+LOAD C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccsvJBYa.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccBaCkAA.o
+LOAD C:\Users\34503\AppData\Local\Temp\ccwqPkzF.o
+START GROUP
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+                0x20005000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000000                        _Min_Heap_Size = 0x0
+                0x00000800                        _Min_Stack_Size = 0x800
+
+.isr_vector     0x08000000      0x10c
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+                0x08000000                g_pfnVectors
+
+.text           0x0800010c      0xbc4
+ *(.text*)
+ .text.wait_cycles
+                0x0800010c       0x14 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .text._init    0x08000120        0x2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x08000120                _init
+ .text._fini    0x08000122        0x2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x08000122                _fini
+ .text.Error_Handler
+                0x08000124       0x6c C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x08000124                Error_Handler
+ .text.HardFault_Handler
+                0x08000190        0x6 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x08000190                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000196        0x6 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x08000196                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800019c        0x6 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x0800019c                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080001a2        0x6 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x080001a2                UsageFault_Handler
+ .text.SysTick_Handler
+                0x080001a8        0x4 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x080001a8                SysTick_Handler
+ .text.startup.main
+                0x080001ac      0x2b8 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x080001ac                main
+ .text.SystemInit
+                0x08000464        0x2 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+                0x08000464                SystemInit
+ *fill*         0x08000466        0x2 
+ .text.Reset_Handler
+                0x08000468       0x48 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+                0x08000468                Reset_Handler
+ .text.Default_Handler
+                0x080004b0        0x2 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+                0x080004b0                RTC_Alarm_IRQHandler
+                0x080004b0                EXTI2_IRQHandler
+                0x080004b0                DebugMon_Handler
+                0x080004b0                TIM1_CC_IRQHandler
+                0x080004b0                PVD_IRQHandler
+                0x080004b0                PendSV_Handler
+                0x080004b0                NMI_Handler
+                0x080004b0                EXTI3_IRQHandler
+                0x080004b0                EXTI0_IRQHandler
+                0x080004b0                I2C2_EV_IRQHandler
+                0x080004b0                ADC1_2_IRQHandler
+                0x080004b0                SPI1_IRQHandler
+                0x080004b0                TAMPER_IRQHandler
+                0x080004b0                DMA1_Channel4_IRQHandler
+                0x080004b0                USART3_IRQHandler
+                0x080004b0                RTC_IRQHandler
+                0x080004b0                DMA1_Channel7_IRQHandler
+                0x080004b0                CAN1_RX1_IRQHandler
+                0x080004b0                TIM4_IRQHandler
+                0x080004b0                I2C1_EV_IRQHandler
+                0x080004b0                DMA1_Channel6_IRQHandler
+                0x080004b0                TIM3_IRQHandler
+                0x080004b0                RCC_IRQHandler
+                0x080004b0                TIM1_TRG_COM_IRQHandler
+                0x080004b0                DMA1_Channel1_IRQHandler
+                0x080004b0                Default_Handler
+                0x080004b0                EXTI15_10_IRQHandler
+                0x080004b0                EXTI9_5_IRQHandler
+                0x080004b0                SPI2_IRQHandler
+                0x080004b0                SVC_Handler
+                0x080004b0                DMA1_Channel5_IRQHandler
+                0x080004b0                EXTI4_IRQHandler
+                0x080004b0                USB_LP_CAN1_RX0_IRQHandler
+                0x080004b0                USB_HP_CAN1_TX_IRQHandler
+                0x080004b0                DMA1_Channel3_IRQHandler
+                0x080004b0                TIM1_UP_IRQHandler
+                0x080004b0                WWDG_IRQHandler
+                0x080004b0                TIM2_IRQHandler
+                0x080004b0                TIM1_BRK_IRQHandler
+                0x080004b0                EXTI1_IRQHandler
+                0x080004b0                USART2_IRQHandler
+                0x080004b0                I2C2_ER_IRQHandler
+                0x080004b0                DMA1_Channel2_IRQHandler
+                0x080004b0                CAN1_SCE_IRQHandler
+                0x080004b0                FLASH_IRQHandler
+                0x080004b0                USART1_IRQHandler
+                0x080004b0                I2C1_ER_IRQHandler
+                0x080004b0                USBWakeUp_IRQHandler
+ .text.HAL_MspInit
+                0x080004b2        0x2 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x080004b2                HAL_MspInit
+ .text.HAL_InitTick
+                0x080004b4       0x48 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x080004b4                HAL_InitTick
+ .text.HAL_Init
+                0x080004fc       0x24 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x080004fc                HAL_Init
+ .text.HAL_IncTick
+                0x08000520       0x18 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x08000520                HAL_IncTick
+ .text.HAL_GetTick
+                0x08000538        0xc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x08000538                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000544       0x24 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+                0x08000544                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000568       0x60 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+                0x08000568                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080005c8       0x28 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+                0x080005c8                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x080005f0      0x1a8 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+                0x080005f0                HAL_GPIO_Init
+ .text.HAL_RCC_OscConfig
+                0x08000798      0x338 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+                0x08000798                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000ad0       0x4c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+                0x08000ad0                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08000b1c      0x138 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+                0x08000b1c                HAL_RCC_ClockConfig
+ .text.memset   0x08000c54       0x10 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+                0x08000c54                memset
+ .text.__libc_init_array
+                0x08000c64       0x48 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+                0x08000c64                __libc_init_array
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08000cac       0x10 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+                0x08000cac                AHBPrescTable
+ .rodata.aPredivFactorTable.0
+                0x08000cbc        0x2 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .rodata.aPLLMULFactorTable.1
+                0x08000cbe       0x10 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ *(.init)
+ *(.fini)
+                0x08000cd0                        . = ALIGN (0x4)
+ *fill*         0x08000cce        0x2 
+                0x08000cd0                        _etext = .
+
+.glue_7         0x08000cd0        0x0
+ .glue_7        0x08000cd0        0x0 linker stubs
+
+.glue_7t        0x08000cd0        0x0
+ .glue_7t       0x08000cd0        0x0 linker stubs
+
+.vfp11_veneer   0x08000cd0        0x0
+ .vfp11_veneer  0x08000cd0        0x0 linker stubs
+
+.v4_bx          0x08000cd0        0x0
+ .v4_bx         0x08000cd0        0x0 linker stubs
+
+.iplt           0x08000cd0        0x0
+ .iplt          0x08000cd0        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+
+.rel.dyn        0x08000cd0        0x0
+ .rel.iplt      0x08000cd0        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x08000cd0        0x0
+                0x08000cd0                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000cd0                        __exidx_end = .
+
+.preinit_array  0x08000cd0        0x0
+                0x08000cd0                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000cd0                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08000cd0        0x0
+                0x08000cd0                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x08000cd0                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000cd0        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x08000cd0                        _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x4c load address 0x08000cd0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data*)
+ .data.panel_status
+                0x20000000       0x40 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                0x20000000                panel_status
+ .data.SystemCoreClock
+                0x20000040        0x4 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+                0x20000040                SystemCoreClock
+ .data.uwTickFreq
+                0x20000044        0x1 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x20000044                uwTickFreq
+ *fill*         0x20000045        0x3 
+ .data.uwTickPrio
+                0x20000048        0x4 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x20000048                uwTickPrio
+                0x2000004c                        . = ALIGN (0x4)
+                0x2000004c                        _edata = .
+
+.igot.plt       0x2000004c        0x0 load address 0x08000d1c
+ .igot.plt      0x2000004c        0x0 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+
+.bss            0x2000004c        0x4 load address 0x08000d1c
+                0x2000004c                        . = ALIGN (0x4)
+                0x2000004c                        _sbss = .
+ *(.bss*)
+ .bss.uwTick    0x2000004c        0x4 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+                0x2000004c                uwTick
+ *(COMMON)
+                0x20000050                        . = ALIGN (0x4)
+                0x20000050                        _ebss = .
+
+.heap_stack     0x20000050      0x800 load address 0x08000d1c
+                0x20000050                        . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x20000050                        . = (. + _Min_Heap_Size)
+                0x20000850                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000050      0x800 
+                0x20000850                        . = ALIGN (0x8)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(C:\Users\34503\Desktop\点屏\build\panel.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x3757
+ .debug_info    0x00000000      0xe35 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_info    0x00000e35      0x231 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_info    0x00001066       0x30 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_info    0x00001096      0x7dc C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_info    0x00001872      0xced C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_info    0x0000255f      0x612 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_info    0x00002b71      0x9fb C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_info    0x0000356c       0xe0 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_info    0x0000364c      0x10b C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_abbrev   0x00000000     0x113d
+ .debug_abbrev  0x00000000      0x391 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_abbrev  0x00000391      0x145 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_abbrev  0x000004d6       0x24 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_abbrev  0x000004fa      0x272 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_abbrev  0x0000076c      0x36b C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_abbrev  0x00000ad7      0x200 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_abbrev  0x00000cd7      0x2ff C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_abbrev  0x00000fd6       0x9e C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_abbrev  0x00001074       0xc9 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_loclists
+                0x00000000      0xe32
+ .debug_loclists
+                0x00000000      0x139 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_loclists
+                0x00000139       0xac C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_loclists
+                0x000001e5       0xd5 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_loclists
+                0x000002ba      0x3cb C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_loclists
+                0x00000685      0x311 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_loclists
+                0x00000996      0x41d C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_loclists
+                0x00000db3       0x3b C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_loclists
+                0x00000dee       0x44 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_aranges  0x00000000      0x348
+ .debug_aranges
+                0x00000000       0x68 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_aranges
+                0x00000068       0x28 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_aranges
+                0x00000090       0x28 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_aranges
+                0x000000b8       0xe0 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_aranges
+                0x00000198       0x90 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_aranges
+                0x00000228       0x58 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_aranges
+                0x00000280       0x88 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_aranges
+                0x00000308       0x20 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_aranges
+                0x00000328       0x20 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_rnglists
+                0x00000000      0x40f
+ .debug_rnglists
+                0x00000000      0x16b C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_rnglists
+                0x0000016b       0x19 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_rnglists
+                0x00000184       0x19 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_rnglists
+                0x0000019d       0xa3 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_rnglists
+                0x00000240       0xd3 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_rnglists
+                0x00000313       0x51 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_rnglists
+                0x00000364       0x85 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_rnglists
+                0x000003e9       0x13 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_rnglists
+                0x000003fc       0x13 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_macro    0x00000000    0x18611
+ .debug_macro   0x00000000      0x2d2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000002d2      0xad2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00000da4      0x2c6 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0000106a       0x2e C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00001098       0x22 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000010ba       0x22 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000010dc       0x56 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00001132       0x51 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00001183      0x103 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00001286       0x6a C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000012f0      0x1df C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000014cf       0x1c C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000014eb       0x22 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0000150d       0xbd C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000015ca      0xd23 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000022ed     0xe09e C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001038b       0x6d C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000103f8     0x34a2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001389a      0x190 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00013a2a       0x5c C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00013a86      0x5bc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014042      0x289 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000142cb      0x1cb C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014496      0x114 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000145aa      0x1b2 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001475c       0x27 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014783      0x136 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000148b9      0x1bc C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014a75       0x34 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014aa9       0x3c C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014ae5      0x408 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014eed       0x57 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00014f44      0x46a C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000153ae      0x1b5 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015563       0x22 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015585       0x87 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001560c      0x240 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001584c      0x287 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015ad3       0x78 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015b4b      0x140 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015c8b      0x1ef C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015e7a       0xeb C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00015f65      0x217 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001617c      0x8ed C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00016a69      0x28e C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00016cf7      0x217 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00016f0e      0x1a7 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000170b5      0x2cd C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00017382       0x8d C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001740f       0xb7 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000174c6      0x242 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x00017708       0x83 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x0001778b       0x52 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_macro   0x000177dd      0x2b7 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_macro   0x00017a94      0x2db C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_macro   0x00017d6f      0x2b7 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_macro   0x00018026      0x322 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_macro   0x00018348      0x2c9 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+
+.debug_line     0x00000000     0x5c94
+ .debug_line    0x00000000     0x1000 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_line    0x00001000      0xabb C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_line    0x00001abb       0x78 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_line    0x00001b33      0xd47 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_line    0x0000287a      0xef4 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_line    0x0000376e      0xdc4 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_line    0x00004532     0x147b C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_line    0x000059ad      0x17e C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_line    0x00005b2b      0x169 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_str      0x00000000    0x97a28
+ .debug_str     0x00000000    0x97a28 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                              0x96bca (size before relaxing)
+ .debug_str     0x00097a28    0x96615 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_str     0x00097a28       0xa4 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .debug_str     0x00097a28    0x96d1e C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_str     0x00097a28    0x96c6a C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_str     0x00097a28    0x96971 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_str     0x00097a28    0x96a1a C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_str     0x00097a28      0x209 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_str     0x00097a28      0x26a C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.comment        0x00000000       0x43
+ .comment       0x00000000       0x43 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+                                 0x44 (size before relaxing)
+ .comment       0x00000043       0x44 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .comment       0x00000043       0x44 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .comment       0x00000043       0x44 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .comment       0x00000043       0x44 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .comment       0x00000043       0x44 C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .comment       0x00000043       0x44 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .comment       0x00000043       0x44 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .ARM.attributes
+                0x0000002d       0x2d C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .ARM.attributes
+                0x0000005a       0x21 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o
+ .ARM.attributes
+                0x0000007b       0x2d C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .ARM.attributes
+                0x000000a8       0x2d C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .ARM.attributes
+                0x000000d5       0x2d C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .ARM.attributes
+                0x00000102       0x2d C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .ARM.attributes
+                0x0000012f       0x2d C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x0000015c       0x2d C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_frame    0x00000000      0x66c
+ .debug_frame   0x00000000       0xe8 C:\Users\34503\AppData\Local\Temp\ccHaJVkh.o
+ .debug_frame   0x000000e8       0x30 C:\Users\34503\AppData\Local\Temp\ccs3hCv7.o
+ .debug_frame   0x00000118      0x1d4 C:\Users\34503\AppData\Local\Temp\ccJowNqt.o
+ .debug_frame   0x000002ec      0x120 C:\Users\34503\AppData\Local\Temp\ccDN5oKv.o
+ .debug_frame   0x0000040c       0xd8 C:\Users\34503\AppData\Local\Temp\cccdrU95.o
+ .debug_frame   0x000004e4      0x13c C:\Users\34503\AppData\Local\Temp\ccmTxsQg.o
+ .debug_frame   0x00000620       0x20 C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000640       0x2c C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.14.3.rel1.win32_1.0.100.202602081740/tools/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a(libc_a-init.o)
+
+.debug_line_str
+                0x00000000       0x88
+ .debug_line_str
+                0x00000000       0x88 C:\Users\34503\AppData\Local\Temp\ccr9LUH5.o

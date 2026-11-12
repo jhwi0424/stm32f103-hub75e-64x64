@@ -1,0 +1,24 @@
+{
+  "before_cr": [
+    "0x44484411",
+    "0x44111144"
+  ],
+  "after_cr": [
+    "0x44484444",
+    "0x44144444"
+  ],
+  "status": {
+    "magic": 1213547063,
+    "version": 1,
+    "frames": 97,
+    "row": 19,
+    "on_us": 10,
+    "row_us": 250,
+    "core_hz": 64000000,
+    "enable": 0,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 512450,
+    "refresh_hz": 124.89
+  }
+}

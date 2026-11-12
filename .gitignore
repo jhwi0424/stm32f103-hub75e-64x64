@@ -1,0 +1,8 @@
+# Keep firmware, Flash backups, build products, logs and historical versions.
+/tools/__pycache__/
+/.upload/
+.env
+.env.*
+*.pem
+*.key
+

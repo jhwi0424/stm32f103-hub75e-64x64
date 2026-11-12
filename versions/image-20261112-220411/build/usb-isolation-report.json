@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-11-12T17:08:19.650472+08:00",
+  "probe_isolated_from_target": true,
+  "stlink_enumerated": false,
+  "windows_device": "USB VID_0000 PID_0002",
+  "problem_code": 43,
+  "description": "Device Descriptor Request Failed",
+  "firmware_readback_matches": true,
+  "panel_observation": "User reports completely dark",
+  "next_step": "Restore a working ST-Link/CMSIS-DAP USB connection, then read runtime status"
+}

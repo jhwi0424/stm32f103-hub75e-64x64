@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-11-12T16:59:46.484173+08:00",
+  "action": "identify",
+  "device_id": "0x6410",
+  "flash_kib": 64,
+  "cpuid": "0x411fc231"
+}

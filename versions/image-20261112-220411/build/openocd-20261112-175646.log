@@ -1,0 +1,18 @@
+Open On-Chip Debugger 0.12.0+dev-00645-g2306f32ee (2026-02-09-11:36) [https://github.com/STMicroelectronics/OpenOCD]
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Info : auto-selecting first available session transport "swd". To override use 'transport select <transport>'.
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x0d28:0x0204, serial=115E3F319C8E16261F65187D5B32AAEC
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.1.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 1 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : Connecting under reset
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 50 kHz
+Error: Error connecting DP: cannot read IDR
+
+

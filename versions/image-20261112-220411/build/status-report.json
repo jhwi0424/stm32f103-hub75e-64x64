@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-11-12T18:09:32.877765+08:00",
+  "action": "status",
+  "first": {
+    "magic": 1213547063,
+    "version": 1,
+    "frames": 73,
+    "row": 22,
+    "on_us": 10,
+    "row_us": 250,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 512594,
+    "refresh_hz": 124.855
+  },
+  "second": {
+    "magic": 1213547063,
+    "version": 1,
+    "frames": 200,
+    "row": 16,
+    "on_us": 10,
+    "row_us": 250,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 512587,
+    "refresh_hz": 124.857
+  }
+}

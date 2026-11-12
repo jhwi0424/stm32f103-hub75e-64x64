@@ -1,0 +1,45 @@
+Open On-Chip Debugger 0.12.0+dev-00645-g2306f32ee (2026-02-09-11:36) [https://github.com/STMicroelectronics/OpenOCD]
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Info : auto-selecting first available session transport "swd". To override use 'transport select <transport>'.
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x0d28:0x0204, serial=115E3F319C8E16261F65187D5B32AAEC
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.1.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 1 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 50 kHz
+Info : SWD DPIDR 0x1ba01477
+Info : [stm32f1x.cpu] Cortex-M3 r1p1 processor detected
+Info : [stm32f1x.cpu] target has 6 breakpoints, 4 watchpoints
+Info : [stm32f1x.cpu] Examination succeed
+Info : gdb port disabled
+Info : Listening on port 16667 for tcl connections
+Info : telnet server disabled
+Info : accepting 'tcl' connection on tcp/16667
+0x6410
+0x40
+0x411fc231
+none separate
+cortex_m reset_config sysresetreq
+[stm32f1x.cpu] halted due to breakpoint, current mode: Thread 
+xPSR: 0x01000000 pc: 0x08000454 msp: 0x20005000
+0x30003
+dumped 65536 bytes in 10.662394s (6.002 KiB/s)
+Info : device id = 0x00006410
+Info : flash size = 64 KiB
+Warn : Adding extra erase range, 0x08000d1c .. 0x08000fff
+auto erase enabled
+wrote 3356 bytes from file build/panel.bin in 2.125573s (1.542 KiB/s)
+verified 3356 bytes in 0.212172s (15.447 KiB/s)
+dumped 3356 bytes in 0.546824s (5.993 KiB/s)
+0x48554237 0x3 0x3e 0x1e 0x126 0x12c 0x3d09000 0x1 0x24 0x0 0x9624f
+0x1 0x0 0x4ab2 0x0
+0x126
+0x48554237 0x3 0xa9 0x12 0x126 0x12c 0x3d09000 0x1 0x24 0x0 0x9624f
+0x1 0x0 0x4ab2 0x0
+0x126
+Info : dropped 'tcl' 
