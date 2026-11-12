@@ -1,0 +1,31 @@
+[
+  {
+    "timestamp": "2026-11-12T18:15:23.560458+08:00",
+    "devices": [
+      {
+        "id": "USB\\VID_0D28&PID_0204\\115E3F319C8E16261F65187D5B32AAEC",
+        "problem_code": 0,
+        "status_flags": "0x180600a",
+        "query_result": 0
+      },
+      {
+        "id": "USB\\VID_0D28&PID_0204&MI_01\\8&38444C5B&0&0001",
+        "problem_code": 0,
+        "status_flags": "0x180200a",
+        "query_result": 0
+      },
+      {
+        "id": "USB\\VID_0D28&PID_0204&MI_03\\8&38444C5B&0&0003",
+        "problem_code": 0,
+        "status_flags": "0x180200a",
+        "query_result": 0
+      },
+      {
+        "id": "USB\\VID_0D28&PID_0204&MI_00\\8&38444C5B&0&0000",
+        "problem_code": 0,
+        "status_flags": "0x180200a",
+        "query_result": 0
+      }
+    ]
+  }
+]

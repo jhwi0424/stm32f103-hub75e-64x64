@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-11-12T22:08:47.532872+08:00",
+  "action": "flash",
+  "device_id": "0x6410",
+  "flash_kib": 64,
+  "cpuid": "0x411fc231",
+  "reset_halt_result": "",
+  "backup": "C:\\Users\\34503\\Desktop\\点屏\\build\\flash-backup-20261112-220849.bin",
+  "backup_result": "dumped 65536 bytes in 10.662394s (6.002 KiB/s)",
+  "write_result": "auto erase enabled\nwrote 3356 bytes from file build/panel.bin in 2.125573s (1.542 KiB/s)",
+  "verify_result": "verified 3356 bytes in 0.212172s (15.447 KiB/s)",
+  "readback_matches": true,
+  "image_sha256": "55fad1055523645a0ca0c1fb5a609200bc6142e1d2f041044b57c4df1a0102eb"
+}

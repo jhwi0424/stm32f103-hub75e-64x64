@@ -1,0 +1,53 @@
+Open On-Chip Debugger 0.12.0+dev-00645-g2306f32ee (2026-02-09-11:36) [https://github.com/STMicroelectronics/OpenOCD]
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Info : auto-selecting first available session transport "swd". To override use 'transport select <transport>'.
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x0d28:0x0204, serial=115E3F319C8E16261F65187D5B32AAEC
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.1.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 1 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : Connecting under reset
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 50 kHz
+Info : SWD DPIDR 0x1ba01477
+Info : [stm32f1x.cpu] Cortex-M3 r1p1 processor detected
+Info : [stm32f1x.cpu] target has 6 breakpoints, 4 watchpoints
+Info : [stm32f1x.cpu] Examination succeed
+Info : gdb port disabled
+Info : Listening on port 16667 for tcl connections
+Info : telnet server disabled
+Info : accepting 'tcl' connection on tcp/16667
+0x6410
+0x40
+0x411fc231
+[stm32f1x.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x81000000 pc: 0x08000132 msp: 0x20004f80
+dumped 65536 bytes in 10.660142s (6.004 KiB/s)
+Info : device id = 0x00006410
+Info : flash size = 64 KiB
+Warn : Adding extra erase range, 0x08008d64 .. 0x08008fff
+Info : SWD DPIDR 0x1ba01477
+Error: Failed to write memory at 0x20000f24
+Error: error writing to flash at address 0x08000000 at offset 0x00000000
+auto erase enabled
+Warn : [stm32f1x.cpu] target was in unknown state when halt was requested
+Info : SWD DPIDR 0x1ba01477
+Error: [stm32f1x.cpu] error executing cortex_m crc algorithm
+Info : SWD DPIDR 0x1ba01477
+Error: Failed to write memory at 0xe000edf0
+Error: failed to restore 52 bytes of working area at address 0x20000000
+Info : SWD DPIDR 0x1ba01477
+Error: Failed to read memory and, additionally, failed to find out where
+
+Polling target stm32f1x.cpu failed, trying to reexamine
+Info : SWD DPIDR 0x1ba01477
+Info : [stm32f1x.cpu] Cortex-M3 r1p1 processor detected
+Info : [stm32f1x.cpu] target has 6 breakpoints, 4 watchpoints
+Info : [stm32f1x.cpu] Examination succeed
+Info : SWD DPIDR 0x1ba01477
+Error: Failed to read memory at 0xe0042008
+

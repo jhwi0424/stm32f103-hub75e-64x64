@@ -1,0 +1,30 @@
+Open On-Chip Debugger 0.12.0+dev-00645-g2306f32ee (2026-02-09-11:36) [https://github.com/STMicroelectronics/OpenOCD]
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Info : auto-selecting first available session transport "swd". To override use 'transport select <transport>'.
+Info : Using CMSIS-DAPv2 interface with VID:PID=0x0d28:0x0204, serial=115E3F319C8E16261F65187D5B32AAEC
+Info : CMSIS-DAP: SWD supported
+Info : CMSIS-DAP: Atomic commands supported
+Info : CMSIS-DAP: Test domain timer supported
+Info : CMSIS-DAP: FW Version = 2.1.0
+Info : CMSIS-DAP: Interface Initialised (SWD)
+Info : SWCLK/TCK = 0 SWDIO/TMS = 1 TDI = 0 TDO = 0 nTRST = 0 nRESET = 1
+Info : CMSIS-DAP: Interface ready
+Info : clock speed 100 kHz
+Info : SWD DPIDR 0x1ba01477
+Info : [stm32f1x.cpu] Cortex-M3 r1p1 processor detected
+Info : [stm32f1x.cpu] target has 6 breakpoints, 4 watchpoints
+Info : [stm32f1x.cpu] Examination succeed
+Info : gdb port disabled
+Info : Listening on port 16667 for tcl connections
+Info : telnet server disabled
+Info : accepting 'tcl' connection on tcp/16667
+0x3008e83 0x38040a 0x0 0xa1c0 0x20188038 0x14 0x80d 0x0 0x0 0xc000000
+0x11111111 0x88844449 0xdf3f 0xa13f
+0x44484411 0x44111144 0xeffb 0x3010
+0x4000000
+0x8 0x100 0x0 0x0 0x1f 0x0 0x70 0x0 0x3 0x0 0x3f 0xb 0x0 0x2 0x0 0x0 0x0 0x8c00
+0x0 0x0 0x0 0xe0001004 0xe0001004 0x0
+0x48554237 0x1 0x49 0x13 0xa 0xfa 0x3d09000 0x1 0x3f 0x0 0x7d252
+Info : drop

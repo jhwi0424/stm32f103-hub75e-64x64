@@ -1,0 +1,447 @@
+﻿[
+    {
+        "path":  "README.md",
+        "bytes":  3440,
+        "sha256":  "C062F30E87C775609F43219B778F2E8575FDFCB0CBF4084CB93B479C9D6B9059"
+    },
+    {
+        "path":  "STM32F103C8T6-HUB75E-64x64-开发交接.md",
+        "bytes":  26004,
+        "sha256":  "F75979C964B282E82AC9CDC483BD3076997755CC843446698B179CF57BA1C647"
+    },
+    {
+        "path":  "build\\address-input-safe.json",
+        "bytes":  405,
+        "sha256":  "8AEAB3413CE7AD1B4546F5D635B35ED5DFD365D0A334B33E4C1FD387A4C4D35C"
+    },
+    {
+        "path":  "build\\connect-under-reset.log",
+        "bytes":  1184,
+        "sha256":  "65C6EB738EA754C5C3D96AD4F51BF677E80C52F07C42F45234EE42C967DA4E4A"
+    },
+    {
+        "path":  "build\\diagnose-report.json",
+        "bytes":  1094,
+        "sha256":  "355D8506D1918F8CDF1D2AA9C9BC8F26D83F469157AE70939A0E9E168CF73D87"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-170047.bin",
+        "bytes":  32768,
+        "sha256":  "C50FFA9649F2460206FFFE38110E881A1992BD7249E3401950909B457CA7809B"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-170235.bin",
+        "bytes":  65536,
+        "sha256":  "318C4E4BEE3E5B1A73D8F6D97585F3253AD9FD0678C047208BDCBED83E80D6F3"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-181236.bin",
+        "bytes":  65536,
+        "sha256":  "05F948FC679E1BDA46272E3A93C24655A79213D6F661636D264CC1CE9C12599F"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-181636.bin",
+        "bytes":  65536,
+        "sha256":  "3071E0DEA5D58F857B18F3E4FB7F1A873BB6144A80BB6B232505CEEF7684F309"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-181853.bin",
+        "bytes":  49152,
+        "sha256":  "ABD8E2A70D51A53287941838446E6ED141005D401FAF597FD7C6DE0BBC8C329D"
+    },
+    {
+        "path":  "build\\flash-backup-20261112-182039.bin",
+        "bytes":  65536,
+        "sha256":  "71189F7FB6AED638640078FBA3A35FDA6C39C8962E74DCC75935AAC948DA9063"
+    },
+    {
+        "path":  "build\\flash-report.json",
+        "bytes":  1396,
+        "sha256":  "8F75F1B640021622B4FEB7D3A38F999B2F2E66F336523F2301A48DB6C102D1E6"
+    },
+    {
+        "path":  "build\\identify-report.json",
+        "bytes":  152,
+        "sha256":  "B76C83D4AADBA10107EEE615206F929EE15961096573CF56067651DB8B568584"
+    },
+    {
+        "path":  "build\\off-report.json",
+        "bytes":  639,
+        "sha256":  "0ED8F2CEA7C6BC10DF3D121C6ECA3EBA7E4A4903439B5E98845843A810251C5F"
+    },
+    {
+        "path":  "build\\on-report.json",
+        "bytes":  636,
+        "sha256":  "E811028EFE32953D7AE16B416683073957F88015255434F5D0FA30CAAB35C16E"
+    },
+    {
+        "path":  "build\\openocd-20261112-170632.log",
+        "bytes":  355,
+        "sha256":  "3DA0DAB2FEE2D1D726BC709FA10C692A62EDDDCBDDF07FA853BCBE41999C0934"
+    },
+    {
+        "path":  "build\\openocd-20261112-170938.log",
+        "bytes":  355,
+        "sha256":  "3DA0DAB2FEE2D1D726BC709FA10C692A62EDDDCBDDF07FA853BCBE41999C0934"
+    },
+    {
+        "path":  "build\\openocd-20261112-171553.log",
+        "bytes":  477,
+        "sha256":  "929813FC064A92A7A915026A51A00799EFB2240E710BC8F5CBDF00B9CEE9A59A"
+    },
+    {
+        "path":  "build\\openocd-20261112-171809.log",
+        "bytes":  353,
+        "sha256":  "57AB0ADD1F779EB0C9623A2DA5E80413E46438101616FB68C6D62E436BD8D65E"
+    },
+    {
+        "path":  "build\\openocd-20261112-172101.log",
+        "bytes":  416,
+        "sha256":  "9B424BB93E99164B2E536CF61191839D6DC89A263B8E18D0C6BCFFE6E1722EC4"
+    },
+    {
+        "path":  "build\\openocd-20261112-172203.log",
+        "bytes":  416,
+        "sha256":  "9B424BB93E99164B2E536CF61191839D6DC89A263B8E18D0C6BCFFE6E1722EC4"
+    },
+    {
+        "path":  "build\\openocd-20261112-172322.log",
+        "bytes":  355,
+        "sha256":  "3DA0DAB2FEE2D1D726BC709FA10C692A62EDDDCBDDF07FA853BCBE41999C0934"
+    },
+    {
+        "path":  "build\\openocd-20261112-173454.log",
+        "bytes":  355,
+        "sha256":  "3DA0DAB2FEE2D1D726BC709FA10C692A62EDDDCBDDF07FA853BCBE41999C0934"
+    },
+    {
+        "path":  "build\\openocd-20261112-173626.log",
+        "bytes":  1475,
+        "sha256":  "E1E991775564A6A8339013201A39A01823A3DE538AF69069D0CA1DCB1A500D24"
+    },
+    {
+        "path":  "build\\openocd-20261112-173645.log",
+        "bytes":  1254,
+        "sha256":  "087D305C94E363D0475E721AE44D052DE34EFC44693F078D2601CAECEB000984"
+    },
+    {
+        "path":  "build\\openocd-20261112-173757.log",
+        "bytes":  822,
+        "sha256":  "E45DB3EBD99CA8949D87161E6EF82448F8AB1CFFD65FF94D1754296875CAB98B"
+    },
+    {
+        "path":  "build\\openocd-20261112-173816.log",
+        "bytes":  822,
+        "sha256":  "E45DB3EBD99CA8949D87161E6EF82448F8AB1CFFD65FF94D1754296875CAB98B"
+    },
+    {
+        "path":  "build\\openocd-20261112-174027.log",
+        "bytes":  822,
+        "sha256":  "E45DB3EBD99CA8949D87161E6EF82448F8AB1CFFD65FF94D1754296875CAB98B"
+    },
+    {
+        "path":  "build\\openocd-20261112-174215.log",
+        "bytes":  1506,
+        "sha256":  "0BD00900B740AE9095960FE9733A90262BEBA8029FD545FE6DE33BD9DEEB1189"
+    },
+    {
+        "path":  "build\\openocd-20261112-174300.log",
+        "bytes":  5446,
+        "sha256":  "C0324EB0D2EB105D7B791A93F4F1BFAE753DD7DC2FBDBFF3C01B6EC69E8E9953"
+    },
+    {
+        "path":  "build\\openocd-20261112-174356.log",
+        "bytes":  2687,
+        "sha256":  "13FE79C2C904672B8D6A2CBB9A41AE96A713BA2353C2D51431D1136D35DBC10A"
+    },
+    {
+        "path":  "build\\openocd-20261112-174438.log",
+        "bytes":  1369,
+        "sha256":  "7E84F5BB3D42BCC170E962C0B8307F9E47494D303332045CEEEB6208BDAE292E"
+    },
+    {
+        "path":  "build\\openocd-20261112-174514.log",
+        "bytes":  1340,
+        "sha256":  "2296DD8413BDA5E02EA4FB0843F893E46C9A3B2A4DE64F14961E88138BCC2E72"
+    },
+    {
+        "path":  "build\\openocd-20261112-175627.log",
+        "bytes":  821,
+        "sha256":  "161A657B08A44AF7F9A183A517EDCA4E25F46BCCCDC16D2417FF95721457BE75"
+    },
+    {
+        "path":  "build\\openocd-20261112-175646.log",
+        "bytes":  852,
+        "sha256":  "5C3BAC048BBB41F23B334FBD82D44B793135B1B1D914B80C666F64F95E4D99F7"
+    },
+    {
+        "path":  "build\\openocd-20261112-175741.log",
+        "bytes":  821,
+        "sha256":  "161A657B08A44AF7F9A183A517EDCA4E25F46BCCCDC16D2417FF95721457BE75"
+    },
+    {
+        "path":  "build\\openocd-20261112-175759.log",
+        "bytes":  1295,
+        "sha256":  "3818F37366ECF3A04220CF8931E3DDE9252E13CEBA972F7FC7FB9D3475FB672B"
+    },
+    {
+        "path":  "build\\openocd-20261112-175815.log",
+        "bytes":  1362,
+        "sha256":  "25462B7344BA4F17934A1901A2D78A3714EA6226791AD37600A7D12428DFDA68"
+    },
+    {
+        "path":  "build\\openocd-20261112-175951.log",
+        "bytes":  1358,
+        "sha256":  "BE7450CCE1CA924AC4D4A6036F02536812026A05D10A7A24E60BD7AF68BD6464"
+    },
+    {
+        "path":  "build\\openocd-20261112-180934.log",
+        "bytes":  1259,
+        "sha256":  "ADB8AE495385094D05A1754511EC660E910E2D653F2B4CCEDBD9B988D725FA37"
+    },
+    {
+        "path":  "build\\openocd-20261112-181235.log",
+        "bytes":  1809,
+        "sha256":  "AAA3AF94C181653F68069C82B26EB31ADC9DD12DFD8AAE0D695D341863ED07A1"
+    },
+    {
+        "path":  "build\\openocd-20261112-181426.log",
+        "bytes":  821,
+        "sha256":  "161A657B08A44AF7F9A183A517EDCA4E25F46BCCCDC16D2417FF95721457BE75"
+    },
+    {
+        "path":  "build\\openocd-20261112-181445.log",
+        "bytes":  852,
+        "sha256":  "5C3BAC048BBB41F23B334FBD82D44B793135B1B1D914B80C666F64F95E4D99F7"
+    },
+    {
+        "path":  "build\\openocd-20261112-181550.log",
+        "bytes":  852,
+        "sha256":  "128F68AB568C04ED6958B65151FF31D449B2D472AC6B99306AED5690C136CDBD"
+    },
+    {
+        "path":  "build\\openocd-20261112-181634.log",
+        "bytes":  2370,
+        "sha256":  "7F581595B142F361825594E5A81F64558496EADE7598FE6DE29E35C789AE06FE"
+    },
+    {
+        "path":  "build\\openocd-20261112-181852.log",
+        "bytes":  1531,
+        "sha256":  "E411D781AB02504CC41A116CF5A00E10ED5B34462FF45BC4ECD217511A481963"
+    },
+    {
+        "path":  "build\\openocd-20261112-182038.log",
+        "bytes":  2172,
+        "sha256":  "B55DCE46B74E17E7909EE9F9C46586499F516682B4DE13E7A6980B2C8DD227C2"
+    },
+    {
+        "path":  "build\\openocd.log",
+        "bytes":  355,
+        "sha256":  "3DA0DAB2FEE2D1D726BC709FA10C692A62EDDDCBDDF07FA853BCBE41999C0934"
+    },
+    {
+        "path":  "build\\panel-readback.bin",
+        "bytes":  36196,
+        "sha256":  "98DA9B0C31598AB8AFBF70B6778D102282D314962DB4389DA8CF5D7FF0A4A7EB"
+    },
+    {
+        "path":  "build\\panel.bin",
+        "bytes":  36196,
+        "sha256":  "98DA9B0C31598AB8AFBF70B6778D102282D314962DB4389DA8CF5D7FF0A4A7EB"
+    },
+    {
+        "path":  "build\\panel.elf",
+        "bytes":  817868,
+        "sha256":  "E8BC64D615992549B1B53468D96E02F958FFC785BC13C005147C2EF35CB1FDAC"
+    },
+    {
+        "path":  "build\\panel.hex",
+        "bytes":  101862,
+        "sha256":  "0C3CF1AFC421F3911E32CAFF519A3D9086F0879252E47BFEE2B1E436C474967E"
+    },
+    {
+        "path":  "build\\panel.map",
+        "bytes":  123772,
+        "sha256":  "DD97BA1F1FB60E914C3BD6133053B7140DAE1682554321AE9EC47C1A3965DF80"
+    },
+    {
+        "path":  "build\\pin-compare.json",
+        "bytes":  2473,
+        "sha256":  "F424C240C29D80B068C395A57730BFB32767B908E5D6AAF826B120A0F56B234A"
+    },
+    {
+        "path":  "build\\programming-report.json",
+        "bytes":  639,
+        "sha256":  "18954E1F61745A20F1A8DABDE4AC11386ACF3ADFE5CFC97385B498924B851A3E"
+    },
+    {
+        "path":  "build\\readback-verification.json",
+        "bytes":  197,
+        "sha256":  "067F155DB2D41CE65A70683927BC539DAF856AE51E768606643D6EC5DBD0C906"
+    },
+    {
+        "path":  "build\\sample-report.json",
+        "bytes":  829,
+        "sha256":  "BC0B16612E029D3B166FFA13606DBFDBC2D401F83DB5F0C204F73730BBB019B8"
+    },
+    {
+        "path":  "build\\size.txt",
+        "bytes":  137,
+        "sha256":  "50FEBAF1184A3B7C0DEEC16F408ACC03CE806FD472739899291D4EC5869748C5"
+    },
+    {
+        "path":  "build\\status-report.json",
+        "bytes":  642,
+        "sha256":  "3E5655B96B26426CCE0AA85176EF7D141745E72E8092B4F2D0009AAED1615A36"
+    },
+    {
+        "path":  "build\\symbols.json",
+        "bytes":  33,
+        "sha256":  "9F286B5AD73CBD0D83A76FB27F81E34E04C7AC447E7EC20E5FC7E3E294A33D49"
+    },
+    {
+        "path":  "build\\usb-isolation-report.json",
+        "bytes":  438,
+        "sha256":  "D42E132C057C9EBB03CE362ADB268117F97B2B18CC44610E39E9574CCE637E57"
+    },
+    {
+        "path":  "build\\usb-latest.json",
+        "bytes":  813,
+        "sha256":  "A33FB6F892C6FB217ECD1B3DDBB3AEE361E066F981B0A0FA6911B45FF749BFE0"
+    },
+    {
+        "path":  "build\\image\\image-report.json",
+        "bytes":  622,
+        "sha256":  "0C93C985E94BD8CCABF24C09907C236DDD1CADCD4BCD12C646397940B3EBD6AA"
+    },
+    {
+        "path":  "build\\image\\panel-64x64.png",
+        "bytes":  5855,
+        "sha256":  "905A99B19E85446D154344062357A08DC15A4C8E91C99F73D8292E827714E5A5"
+    },
+    {
+        "path":  "build\\image\\panel-preview.png",
+        "bytes":  12183,
+        "sha256":  "D609AAF397EEB53653CE98A29B784E7A53420684519CD18CCFC8166C7957D24F"
+    },
+    {
+        "path":  "build\\image\\panel-rgb444.bin",
+        "bytes":  12288,
+        "sha256":  "A891753BE7430715B2FEBAD45C548640BE7ACA6ABCD18FE2C976D76D2AF9CA79"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\main.c",
+        "bytes":  5286,
+        "sha256":  "0FC5FE1E1069D3920E9E691323256672DF316C31F386C4DE78BF718EFF5DA65B"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\panel.bin",
+        "bytes":  3292,
+        "sha256":  "DA8F76C60A0843667F34F6C1F866F5114605FE2E399A8E988F70CF2E19D848B8"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\panel.elf",
+        "bytes":  784196,
+        "sha256":  "823C5C7CBE074A355B8E86AB9B0B6510EA993CB4F98F1A6E0FD9E8DB087CE206"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\panel.hex",
+        "bytes":  9326,
+        "sha256":  "B9246CD2ACFB7623F90374F66FCC930D87A7DD92ABF8311472E111EA97AF0F58"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\panel.map",
+        "bytes":  123661,
+        "sha256":  "D08DC5A7CF5FEA91D42E6C48BD3E16495F6CA6DBE799EAA0B4AA85EB168BC6BE"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\panel_config.h",
+        "bytes":  359,
+        "sha256":  "82B1897E766F19C0986520A8E727134A50F52A9ACB6DE23495401E9647B0C28B"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\size.txt",
+        "bytes":  137,
+        "sha256":  "CCD25B095378D4B61AEB505FF5D2FBAC7831C90BEBEC479DE750D24C22AE18EF"
+    },
+    {
+        "path":  "build\\white-firmware-20261112-181044\\symbols.json",
+        "bytes":  33,
+        "sha256":  "9F286B5AD73CBD0D83A76FB27F81E34E04C7AC447E7EC20E5FC7E3E294A33D49"
+    },
+    {
+        "path":  "docs\\bringup.md",
+        "bytes":  9180,
+        "sha256":  "D77F684A688378965B87EA99FA7460EE048A597215E45C39C3DC1C09693965AE"
+    },
+    {
+        "path":  "firmware\\main.c",
+        "bytes":  6057,
+        "sha256":  "6A8B1912B4ADF52E0227AD6CCA8939C604309AF4069D665341C873A2BC5EA809"
+    },
+    {
+        "path":  "firmware\\panel.ld",
+        "bytes":  1297,
+        "sha256":  "7EE1137D662C40612C9EF7E5F58D8EBA66DD0073074A55CD5FA4273F336860C6"
+    },
+    {
+        "path":  "firmware\\panel_config.h",
+        "bytes":  418,
+        "sha256":  "EDA795342DC06600ABD0123EE8697B01C55D9A54E8E0D1AFFB00393F0EA5B35A"
+    },
+    {
+        "path":  "firmware\\panel_image.h",
+        "bytes":  99565,
+        "sha256":  "7F9B431CDD4B2A25E9553D8156EA0F259632C3D4B11CDE046D624F7E3840439F"
+    },
+    {
+        "path":  "firmware\\stm32f1xx_hal_conf.h",
+        "bytes":  16150,
+        "sha256":  "729CC4C6AA883B9B70553672EF3C29FD22D20CFD87581E825140C250AA0A6A44"
+    },
+    {
+        "path":  "tools\\build.py",
+        "bytes":  1814,
+        "sha256":  "EEEF74FD9C6F4793B8B6F7C80C47BA575CFFA4C767A1055A5C471DD745B80487"
+    },
+    {
+        "path":  "tools\\gpio_test.py",
+        "bytes":  2559,
+        "sha256":  "7D62A46884E8C4EBFEE81DBC61B1B6B371F8EDBB1A5F7175985709A8E5ADA489"
+    },
+    {
+        "path":  "tools\\image_to_panel.py",
+        "bytes":  4326,
+        "sha256":  "9A7A925A118DF1D12764FA985A4374A1A1507B195653E8FC19495993D6AB637A"
+    },
+    {
+        "path":  "tools\\panel.py",
+        "bytes":  9563,
+        "sha256":  "43483AD356D8ED4060208D62F6312718C89B79DE83B048D61F05209F01903BF0"
+    },
+    {
+        "path":  "tools\\usb_status.py",
+        "bytes":  2635,
+        "sha256":  "9508ACE117256D48B4296CD2060C9E54EF9709871D5851D555E63FE413B810C9"
+    },
+    {
+        "path":  "tools\\__pycache__\\build.cpython-313.pyc",
+        "bytes":  3387,
+        "sha256":  "1655614363FB675CA09D092A07D96D36F98599924B1FE3609D40D3F82031B138"
+    },
+    {
+        "path":  "tools\\__pycache__\\gpio_test.cpython-313.pyc",
+        "bytes":  4816,
+        "sha256":  "57F6EF2A87266FFC49BEC547F45F5AE065755703D23FC1240E4432819C91896E"
+    },
+    {
+        "path":  "tools\\__pycache__\\panel.cpython-313.pyc",
+        "bytes":  15336,
+        "sha256":  "B09397E135356CAE88214F727BFDE7F637CE032AFFCBE5B676CB4D3D5B5D1245"
+    },
+    {
+        "path":  "tools\\__pycache__\\usb_status.cpython-313.pyc",
+        "bytes":  6136,
+        "sha256":  "9F45538DB843077E5E50E1EB1908EF9512F6E1FE4DD7550836E8010F7EBA0228"
+    }
+]

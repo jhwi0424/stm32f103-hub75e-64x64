@@ -1,0 +1,6 @@
+Open On-Chip Debugger 0.12.0+dev-00645-g2306f32ee (2026-02-09-11:36) [https://github.com/STMicroelectronics/OpenOCD]
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+Info : auto-selecting first available session transport "dapdirect_swd". To override use 'transport select <transport>'.
+Error: open failed

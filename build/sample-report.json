@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-11-12T17:43:00.254097+08:00",
+  "action": "sample",
+  "pin_samples": {
+    "samples": 256,
+    "rgb": {
+      "63": 256
+    },
+    "oe": {
+      "0": 132,
+      "1": 124
+    },
+    "row_addresses": {
+      "0": 256
+    }
+  },
+  "first": {
+    "magic": 1213547063,
+    "version": 1,
+    "frames": 322,
+    "row": 3,
+    "on_us": 10,
+    "row_us": 250,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 512606,
+    "refresh_hz": 124.852
+  },
+  "second": {
+    "magic": 1213547063,
+    "version": 1,
+    "frames": 448,
+    "row": 26,
+    "on_us": 10,
+    "row_us": 250,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 512584,
+    "refresh_hz": 124.858
+  }
+}

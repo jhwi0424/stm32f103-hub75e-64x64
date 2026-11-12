@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  36124	     72	   2056	  38252	   956c	C:\Users\34503\Desktop\点屏\build\panel.elf

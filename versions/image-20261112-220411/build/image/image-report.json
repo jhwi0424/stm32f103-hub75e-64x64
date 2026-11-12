@@ -1,0 +1,23 @@
+{
+  "source": "C:\\Users\\34503\\xwechat_files\\wxid_12tszqmgy5ee22_ae6a\\temp\\RWTemp\\2026-11\\aa297712a3d5a96460ddbef9179ccdbe.jpg",
+  "source_sha256": "5bfd91fcd3c30227f39f090e1364a7cf767fd830e2f20fc24ea2378851313f53",
+  "source_size": [
+    1200,
+    1091
+  ],
+  "content_size": [
+    64,
+    58
+  ],
+  "panel_size": [
+    64,
+    64
+  ],
+  "padding": "white, centered",
+  "gamma": 2.2,
+  "bits_per_channel": 4,
+  "unique_colors": 303,
+  "gpio_bitplane_bytes": 32768,
+  "all_4096_pixels_roundtrip_verified": true,
+  "channel_mapping": "PA0/1/2=top RGB; PA3/4/5=bottom RGB; bottom y=address+32"
+}

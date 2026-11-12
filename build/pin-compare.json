@@ -1,0 +1,130 @@
+[
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3812",
+    "pa_idr": "0xd93f",
+    "pa_odr": "0xa13f",
+    "software_row": 7,
+    "frames": 89
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3010",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 29,
+    "frames": 91
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x2410",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 21,
+    "frames": 95
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3c11",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 23,
+    "frames": 100
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3412",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 3,
+    "frames": 106
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3c12",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 11,
+    "frames": 112
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x2410",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 16,
+    "frames": 119
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3412",
+    "pa_idr": "0xd93f",
+    "pa_odr": "0xa13f",
+    "software_row": 1,
+    "frames": 127
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3011",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 29,
+    "frames": 136
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x2c11",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa17f",
+    "software_row": 25,
+    "frames": 146
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x2012",
+    "pa_idr": "0xd93f",
+    "pa_odr": "0xa13f",
+    "software_row": 19,
+    "frames": 157
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3811",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 7,
+    "frames": 169
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3811",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 5,
+    "frames": 182
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3810",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa17f",
+    "software_row": 3,
+    "frames": 196
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3813",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 6,
+    "frames": 210
+  },
+  {
+    "pb_idr": "0x23f8",
+    "pb_odr": "0x3c11",
+    "pa_idr": "0xd83f",
+    "pa_odr": "0xa13f",
+    "software_row": 10,
+    "frames": 225
+  }
+]

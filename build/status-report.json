@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-11-12T22:04:15.151035+08:00",
+  "action": "status",
+  "first": {
+    "magic": 1213547063,
+    "version": 2,
+    "frames": 34,
+    "row": 28,
+    "on_us": 70,
+    "row_us": 300,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 615259,
+    "color_bits": 4,
+    "image_mode": 1,
+    "max_row_cycles": 17637,
+    "row_overruns": 0,
+    "refresh_hz": 104.021
+  },
+  "second": {
+    "magic": 1213547063,
+    "version": 2,
+    "frames": 141,
+    "row": 27,
+    "on_us": 70,
+    "row_us": 300,
+    "core_hz": 64000000,
+    "enable": 1,
+    "rgb_mask": 63,
+    "fault": 0,
+    "last_frame_cycles": 615264,
+    "color_bits": 4,
+    "image_mode": 1,
+    "max_row_cycles": 17639,
+    "row_overruns": 0,
+    "refresh_hz": 104.02
+  }
+}
